@@ -11,3 +11,5 @@ Download terraform from https://www.terraform.io/downloads.html
 Download packer from https://www.packer.io/downloads.html
 
 Install using the steps mentioned https://www.packer.io/intro/getting-started/install.html#precompiled-binaries
+
+The steps used to build can be found at https://www.packer.io/intro/getting-started/build-image.html but need not be done manually since they are already taken care of within the git code
