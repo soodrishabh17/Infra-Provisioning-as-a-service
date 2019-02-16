@@ -9,3 +9,5 @@ Enter your Access key and Secret key in terraform.tfvars file locally. To make s
 Download terraform from https://www.terraform.io/downloads.html
 
 Download packer from https://www.packer.io/downloads.html
+
+Install using the steps mentioned https://www.packer.io/intro/getting-started/install.html#precompiled-binaries
